@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       padding: {
-        "sm-container": "20px",
+        "sm-container": "16px",
         "sm-col": "4px",
       },
       spacing: {
