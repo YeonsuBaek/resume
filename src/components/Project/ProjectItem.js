@@ -1,6 +1,6 @@
 const ProjectItem = () => {
   return (
-    <div className="border-b border-border">
+    <div className="mb-9 border-b border-border">
       <div className="flex items-end mb-2">
         <h3 className="mr-2 text-primary text-header-3 font-bold">지금 한신은</h3>
         <span className="text-secondary text-body-sm leading-6">2022.07-2022.11</span>
